@@ -1,0 +1,15 @@
+Projects:
+
+1) From a list of urls of speaker name, download corresponding MP3's
+
+2) Get html for all conferences and put them into the database
+
+3) pull down mp3's for every speaker into directories by speaker name
+
+4) pull down mp3's by conference and put into conference directories
+
+5) Generate text files for every speaker organized by #1 (strip html)
+
+6) Merge all talks for a conference into a single file ordered by time separated by ='s (strip html)
+
+7) Merge all talks into a single file ordered by time separated by ='s (strip html)
